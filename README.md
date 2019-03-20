@@ -1,7 +1,7 @@
-# prestashop-update-db
-Update Prestashop Database
+# prestashop-migration
 
-Tool to upgrade only the database. Tested for v1.5.6.1 -> v1.7.5.1
+Miration Tools
+- upgrade only the database, using official released upgrade sql scripts. Tested for v1.5.6.1 -> v1.7.5.1
 
 ## Usage
 
